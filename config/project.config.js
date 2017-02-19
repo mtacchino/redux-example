@@ -17,7 +17,7 @@ const config = {
   path_base  : path.resolve(__dirname, '..'),
   dir_client : 'src',
   dir_dist   : 'dist',
-  dir_public : 'public',
+  dir_public : 'assets',
   dir_server : 'server',
   dir_test   : 'test',
 
